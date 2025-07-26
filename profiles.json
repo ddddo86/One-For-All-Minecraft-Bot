@@ -1,7 +1,7 @@
 {
-  "Example1": {
-    "username": "Example1",
-    "host": "mcfallout.net",
+  "arch_2j4": {
+    "username": "arch_2j4",
+    "host": "jp.mcfallout.net",
     "port": "",
     "type": "general",
     "chat": true,

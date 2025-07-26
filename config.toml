@@ -11,9 +11,9 @@
   whitelist_members = ["123456789012345678"]        # Discord 使用者白名單
   whitelist_roles = ["123456789012345678"]          # Discord 身分組白名單
 [account]
-  id = ["Example1"]                                 # 要開啟的帳號 (帳號需再 profiles.json 內設定)
+  id = ["arch_2j4"]                                 # 要開啟的帳號 (帳號需再 profiles.json 內設定)
 [setting]
-  whitelist = ["Example1","Example2"]                # Minecraft 內 使用者白名單
+  whitelist = ["ddddo","qqedward92","ddo_2j4"]                # Minecraft 內 使用者白名單
   reconnect_CD = 3000                               # (ms)   重啟CD (還沒實作???忘記了)
 
 
