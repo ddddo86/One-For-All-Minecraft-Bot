@@ -59,7 +59,7 @@
 	},
 	"overfull":[-7777,67,-773,"S","bN"],   //當材料有多且放不回盒內時會統一放在這裡
 	"materials":[
-        ["white_wool",        [-7745,67,-764,"N","bN"]],
+        	["white_wool",        [-7745,67,-764,"N","bN"]],
 		["orange_wool",       [-7746,67,-764,"N","bN"]],
 		["magenta_wool",      [-7747,67,-764,"N","bN"]],
 		["light_blue_wool",   [-7748,67,-764,"N","bN"]],
@@ -75,9 +75,9 @@
 		["green_wool",        [-7758,67,-764,"N","bN"]],
 		["red_wool",          [-7759,67,-764,"N","bN"]],
 		["black_wool",        [-7760,67,-764,"N","bN"]],
-		["map",			   	  [-7761,67,-764,"N","bN"]],
+		["map",		      [-7761,67,-764,"N","bN"]],
 
-        ["white_terracotta",      [-7761,67,-764,"N","bN"]],
+        	["white_terracotta",      [-7761,67,-764,"N","bN"]],
 		["orange_terracotta",     [-7762,67,-764,"N","bN"]], 
 		["magenta_terracotta",    [-7763,67,-764,"N","bN"]],
 		["light_blue_terracotta", [-7764,67,-764,"N","bN"]],
@@ -105,29 +105,29 @@
 		["netherrack",				[-7753,67,-773,"S","bS"]],
 		["crimson_nylium",			[-7754,67,-773,"S","bS"]],
 		["warped_nylium",			[-7755,67,-773,"S","bS"]],
-		["warped_wart_block",		[-7756,67,-773,"S","bS"]],
+		["warped_wart_block",			[-7756,67,-773,"S","bS"]],
 		["glow_lichen",				[-7757,67,-773,"S","bS"]],
-		["prismarine_bricks",		[-7758,67,-773,"S","bS"]],
+		["prismarine_bricks",			[-7758,67,-773,"S","bS"]],
 		["slime_block",				[-7759,67,-773,"S","bS"]],
 		["oak_leaves",				[-7760,67,-773,"S","bS"]],
 		["emerald_block",			[-7761,67,-773,"S","bS"]],
 		["packed_ice",				[-7762,67,-773,"S","bS"]],
 		["quartz_block",			[-7763,67,-773,"S","bS"]],
-		["clay",					[-7764,67,-773,"S","bS"]],
+		["clay",				[-7764,67,-773,"S","bS"]],
 		["mushroom_stem",			[-7765,67,-773,"S","bS"]],
 		["iron_block",				[-7766,67,-773,"S","bS"]],
 		["raw_iron_block",			[-7767,67,-773,"S","bS"]],
 		["cobblestone",				[-7768,67,-773,"S","bS"]],
-		["cobbled_deepslate",		[-7769,67,-773,"S","bS"]],
+		["cobbled_deepslate",			[-7769,67,-773,"S","bS"]],
 		["lapis_block",				[-7770,67,-773,"S","bS"]],
 		["redstone_block",			[-7771,67,-773,"S","bS"]],
 		["gold_block",				[-7772,67,-773,"S","bS"]],
-		["dirt",					[-7773,67,-773,"S","bS"]],
+		["dirt",				[-7773,67,-773,"S","bS"]],
 		["birch_leaves",			[-7774,67,-773,"S","bS"]],
 		["dripstone_block",			[-7775,67,-773,"S","bS"]]
 	  ]
 }
-
+```
 ### station.json 座標填寫說明
 
 ```json
