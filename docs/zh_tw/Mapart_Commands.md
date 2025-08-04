@@ -35,8 +35,8 @@ set <filename> <x> <y> <z>
 
 ### 建造
 ```
-- build `<args>`
-- b `<args>`
+- build <args>
+- b <args>
 ```
 格式
 | Args      | Description   |

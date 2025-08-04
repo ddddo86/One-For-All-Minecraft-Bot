@@ -23,7 +23,8 @@
 
 | [廢土地圖畫版權規定](https://discord.com/channels/358942292352040970/465960604427878420/846712252169977856)
  | [廢土地圖畫分級規定](https://discord.com/channels/358942292352040970/465960604427878420/925808493951340585) |
-| [廢土地圖畫分級展示規定](https://discord.com/channels/358942292352040970/465960604427878420/858618967248732206) | [地圖畫判定標準與後續解釋事宜](https://discord.com/channels/358942292352040970/465960604427878420/1157959585680851054)
+ [廢土地圖畫分級展示規定](https://discord.com/channels/358942292352040970/465960604427878420/858618967248732206) | [地圖畫判定標準與後續解釋事宜](https://discord.com/channels/358942292352040970/465960604427878420/1157959585680851054)
+ |---|---|---|---|
 
 ## Step1. 設定材料站
 
@@ -32,6 +33,7 @@
 接下來需要設定各項參數，這部分會有億點點的坐牢，一共有3個檔案: `station.json`, `global/mapart.json`, `<bot>/mapart.json` 
 
 | [station.json](Mapart.md#stationjson-填寫說明) | [global/mapart.json](Mapart.md#mapartjson-填寫說明) | [global/mapart.json](Mapart.md#mapartjson-填寫說明) |
+|---|---|---|
 
 ### station.json 填寫說明
 
