@@ -29,11 +29,11 @@
 
 將第二 `SERVER MEMBERS INTENT` 及第三個選項 `MESSAGE CONTENT INTENT` 開啟
 
-<img src="github.com/JKLoveUU/One-For-All-Minecraft-Bot/blob/main/docs/zh_tw/image/discord_bot_step3.jpg"  width="60%" height="30%">
+<img src="https://github.com/JKLoveUU/One-For-All-Minecraft-Bot/blob/main/docs/zh_tw/images/discord_bot_step3.jpg"  width="60%" height="30%">
 
 回到該頁上方頭貼右方，點擊 `Reset Token`
 
-<img src="https://github.com/JKLoveUU/One-For-All-Minecraft-Bot/blob/main/docs/zh_tw/image/discord_bot_reset_token.jpg"  width="60%" height="30%">
+<img src="https://github.com/JKLoveUU/One-For-All-Minecraft-Bot/blob/main/docs/zh_tw/images/discord_bot_reset_token.jpg"  width="60%" height="30%">
 
 點擊 `Copy` 並將它暫時貼上於空白記事本中
 
@@ -47,19 +47,19 @@
 
 勾選 `bot` 選項，再勾選下方的 `Administrator` 選項
 
-<img src="https://github.com/JKLoveUU/One-For-All-Minecraft-Bot/blob/main/docs/zh_tw/image/discord_bot_access.jpg"  width="60%" height="30%">
+<img src="https://github.com/JKLoveUU/One-For-All-Minecraft-Bot/blob/main/docs/zh_tw/images/discord_bot_access.jpg"  width="60%" height="30%">
 
 網頁滾動至底部，複製下方網址並連線至網頁
 
 將Bot加入抽獎城DC群中
 
-<img src="https://github.com/JKLoveUU/One-For-All-Minecraft-Bot/blob/main/docs/zh_tw/image/discord_bot_add.jpg"  width="30%" height="15%">
+<img src="https://github.com/JKLoveUU/One-For-All-Minecraft-Bot/blob/main/docs/zh_tw/images/discord_bot_add.jpg"  width="30%" height="15%">
 
 ## Step3. 開啟 Discord 開發者模式
 
 回到 Discord ，依序點選 `使用者設定` - `進階` - `開發者模式`
 
-<img src="https://github.com/JKLoveUU/One-For-All-Minecraft-Bot/blob/main/docs/zh_tw/image/discord_bot_api.jpg"  width="60%" height="30%">
+<img src="https://github.com/JKLoveUU/One-For-All-Minecraft-Bot/blob/main/docs/zh_tw/images/discord_bot_api.jpg"  width="60%" height="30%">
 
 ## Step4. 取得伺服器ID
 
